@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+This repository is made for learning GIT basics.
